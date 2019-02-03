@@ -1,3 +1,7 @@
+# Attention
+
+Since Ouroboros has reached feature parity with watchtower there's no real reason to maintain this project anymore. I'm sorry.
+
 # Note
 
 This is a fork of the popular (but unfortunately unmaintained) project [v2tec/watchtower](https://github.com/v2tec/watchtower). This fork also includes a few of the unmerged pull requests. The goal is to revive the development of the project and make sure - in the long run - that it's maintained well through multiple maintainers.
