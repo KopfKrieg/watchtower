@@ -1,6 +1,6 @@
 # Note
 
-This is a fork of the popular (but unfortunately unmaintained) project [v2tec/watchtower](https://github.com/v2tec/watchtower). This fork also includes a few of the unmerged pull requests. The goal is to revive the development of the project and make sure - in the long run - that it's maintained well through multiple maintainers.
+This fork is no longer under active maintenance since the original project got "re-activated" and is again under active development: [containrrr/watchtower](https://github.com/containrrr/watchtower). I'm also working on the official project now and won't maintain this fork anymore.
 
 # Watchtower
 
